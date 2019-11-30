@@ -4,7 +4,7 @@ M2DCNN is a repository of code for A Multi-channel 2D Convolutional Neural Netwo
 See the following publications for examples of this code in use:
  * **A Multi-channel 2D Convolutional Neural Networks Model for Task-evoked fMRI Data Classification.** Jinlong Hu, Yuezhen Kuang, Bin Liao, Lijie Cao, Shoubin Dong, Ping Li, (submitted)
 
-### Codes and Trained Models
+### Codes and Models
 #### M2D CNN
 
 #### 3D CNN
