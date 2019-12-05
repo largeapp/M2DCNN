@@ -18,6 +18,10 @@ The codes would be updated at December 6.
 
 #### 1D CNN 
 
-### Experiment
-The results would be updated at December 6.
-![loss-2000](200-Loss-mean-std-plot.png)
+### Experiments and results
+The results would be updated at December 6.  
+#### training and validation losses
+2000 samples from 200 subjects:    
+![loss-2000](200-Loss-mean-std-plot.png)  
+5000 samples from 500 subjects：  
+![loss-5000](500-Loss-mean-std-plot.png)  
