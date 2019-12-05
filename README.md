@@ -20,4 +20,4 @@ The codes would be updated at December 6.
 
 ### Experiment
 The results would be updated at December 6.
-[loss-2000](Loss-mean-std plot.png)
+![loss-2000](Loss-mean-std plot.png)
