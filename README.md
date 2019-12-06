@@ -1,12 +1,18 @@
 # Convolutional Neural Networks for Task-evoked fMRI Data Classification
-M2DCNN is a repository of codes and experiment results for A Multi-channel 2D Convolutional Neural Networks Model for Task-evoked fMRI Data Classification, using Keras (version 2.2.4 ) with TensorFlow (version 1.12.0) as backend.
+M2DCNN is a repository of codes and experiment results for A Multi-channel 2D Convolutional Neural Networks Model for Task-evoked fMRI Data Classification, using Keras (version 2.2.4) with TensorFlow (version 1.12.0) as backend.
 ### Publications
 See the following publications for examples of this code in use:
  * **A Multi-channel 2D Convolutional Neural Networks Model for Task-evoked fMRI Data Classification.** Jinlong Hu, Yuezhen Kuang, Bin Liao, Lijie Cao, Shoubin Dong, Ping Li, (submitted)
 
 ### Codes
 
-[M2D_CNN_model.py](M2D_CNN_model.py) is the Python code for M2D CNN model.  
+[M2D_CNN_model.py](M2D_CNN_model.py) is the Python code of M2D CNN model.  
+[cnn3d_model.py](cnn3d_model.py) is the Python code of 3D CNN model.  
+[sep3d_model.py](sep3d_model.py) is the Python code of 3D SepConv model. To run this model, you should import SeparableConv3D from [sepconv3D](https://github.com/simeon-spasov/MCI/tree/master/utils/sepConv3D.py].
+[s2D_CNN_model.py](s2D_CNN_model.py) is the Python code of s2D CNN model.  
+[mv2D_CNN_model.py](mv2D_CNN_model.py) is the Python code of mv2D CNN model.  
+[cnn1d_model.py](cnn1d_model.py) is the Python code of 1D CNN model.  
+[svm_model.py](svm_model.py) is the Python code of SVM model.  
 
 
 #### 3D SepConv
