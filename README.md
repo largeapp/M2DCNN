@@ -32,7 +32,8 @@ M2D CNN	| 83.20±2.29%	| 83.63±1.87%	| 0.8321±0.0223
 
 
 #### Training time
-2000 samples from 200 subjects (mean±std):
+2000 samples from 200 subjects (mean±std):  
+
 Model |	Training time (S) |	Total number of epochs
 ------ | ------- | -------- 
 mv2D CNN | 909±134 | 54±8
