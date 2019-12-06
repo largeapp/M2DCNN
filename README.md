@@ -5,10 +5,9 @@ See the following publications for examples of this code in use:
  * **A Multi-channel 2D Convolutional Neural Networks Model for Task-evoked fMRI Data Classification.** Jinlong Hu, Yuezhen Kuang, Bin Liao, Lijie Cao, Shoubin Dong, Ping Li, (submitted)
 
 ### Codes
-The codes would be updated at December 6.
-#### M2D CNN
 
-#### 3D CNN
+[M2D_CNN_model.py](M2D_CNN_model.py) is the Python code for M2D CNN model.  
+
 
 #### 3D SepConv
 
