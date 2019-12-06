@@ -8,7 +8,7 @@ See the following publications for examples of this code in use:
 
 [M2D_CNN_model.py](M2D_CNN_model.py) is the Python code of M2D CNN model.  
 [cnn3d_model.py](cnn3d_model.py) is the Python code of 3D CNN model.  
-[sep3d_model.py](sep3d_model.py) is the Python code of 3D SepConv model. To run this model, you should import SeparableConv3D from [sepconv3D](https://github.com/simeon-spasov/MCI/tree/master/utils/sepConv3D.py].
+[sep3d_model.py](sep3d_model.py) is the Python code of 3D SepConv model. To run this model, you should import SeparableConv3D from [sepconv3D](https://github.com/simeon-spasov/MCI/tree/master/utils/sepConv3D.py).  
 [s2D_CNN_model.py](s2D_CNN_model.py) is the Python code of s2D CNN model.  
 [mv2D_CNN_model.py](mv2D_CNN_model.py) is the Python code of mv2D CNN model.  
 [cnn1d_model.py](cnn1d_model.py) is the Python code of 1D CNN model.  
