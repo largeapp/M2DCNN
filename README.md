@@ -8,23 +8,14 @@ See the following publications for examples of this code in use:
 
 [M2D_CNN_model.py](M2D_CNN_model.py) is the Python code of M2D CNN model.  
 [cnn3d_model.py](cnn3d_model.py) is the Python code of 3D CNN model.  
-[sep3d_model.py](sep3d_model.py) is the Python code of 3D SepConv model. To run this model, you should import SeparableConv3D from [sepconv3D](https://github.com/simeon-spasov/MCI/tree/master/utils/sepConv3D.py).  
+[sep3d_model.py](sep3d_model.py) is the Python code of 3D SepConv model. *To run this model, you should import SeparableConv3D from [sepconv3D](https://github.com/simeon-spasov/MCI/tree/master/utils/sepConv3D.py).*  
 [s2D_CNN_model.py](s2D_CNN_model.py) is the Python code of s2D CNN model.  
 [mv2D_CNN_model.py](mv2D_CNN_model.py) is the Python code of mv2D CNN model.  
 [cnn1d_model.py](cnn1d_model.py) is the Python code of 1D CNN model.  
 [svm_model.py](svm_model.py) is the Python code of SVM model.  
 
-
-#### 3D SepConv
-
-#### s2D CNN
-
-#### mv2D CNN
-
-#### 1D CNN 
-
 ### Experiment results
-The results would be updated at December 6. 
+ 
 #### Classification performance
 9950 samples from 995 subjects (mean±std):  
 
@@ -37,6 +28,18 @@ mv2D CNN	| 63.36±2.19%	| 63.59±2.27%	| 0.6306±0.0222
 1D CNN	| 80.76±1.69%	| 80.94±1.73%	| 0.8068±0.0178
 s2D CNN	| 81.80±0.89%	| 81.95±0.97%	| 0.8179±0.0094
 M2D CNN	| 83.20±2.29%	| 83.63±1.87%	| 0.8321±0.0223
+
+
+
+#### Training time
+Model |	Training time (S) (mean±std) |	Total number of epochs (mean±std)
+------ | ------- | -------- 
+mv2D CNN | 909±134 | 54±8
+3D CNN | 1156±185 | 39±6
+3D SepConv | 1601±196 | 41±5
+1D CNN | 834±157 | 39±7
+s2D CNN | 565±102 | 31±6
+M2D CNN | 1074±348 | 39±13
 
 #### training and validation losses
 2000 samples from 200 subjects:    
