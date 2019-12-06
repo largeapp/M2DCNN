@@ -21,6 +21,7 @@ The codes would be updated at December 6.
 ### Experiments and results
 The results would be updated at December 6. 
 #### Classification performance
+9950 samples from 995 subjects (mean±std):  
 
 Model	| Accuracy | Precision | F1-Score
 ------ | ------- | -------- | ------
