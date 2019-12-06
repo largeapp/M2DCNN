@@ -32,7 +32,7 @@ M2D CNN	| 83.20±2.29%	| 83.63±1.87%	| 0.8321±0.0223
 
 
 #### Training time
-Model |	Training time (S) (mean±std) |	Total number of epochs (mean±std)
+Model |	Training time (S) |	Total number of epochs
 ------ | ------- | -------- 
 mv2D CNN | 909±134 | 54±8
 3D CNN | 1156±185 | 39±6
