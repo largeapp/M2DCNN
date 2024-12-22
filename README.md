@@ -1,5 +1,8 @@
 # Convolutional Neural Networks for Task-evoked fMRI Data Classification
 M2DCNN is a repository of codes and experiment results for A Multi-channel 2D Convolutional Neural Networks Model for Task-evoked fMRI Data Classification, using Keras (version 2.2.4) with TensorFlow (version 1.12.0) as backend.
+
+Our research collection on artificial intelligence for brain image analysis is available on [this link](https://github.com/largeapp/AI-for-Brain-Image-Analysis).
+
 ### Publications
 See the following publications for examples of this code in use:
  * **A Multi-channel 2D Convolutional Neural Networks Model for Task-evoked fMRI Data Classification.** Jinlong Hu, Yuezhen Kuang, Bin Liao, Lijie Cao, Shoubin Dong, Ping Li, [Computational Intelligence and Neuroscience](https://new.hindawi.com/journals/cin/2019/5065214/), 2019.
